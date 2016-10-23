@@ -22,6 +22,14 @@ td {
     margin: 2px;
 }
 
+.navbar-brand{
+    width: 69px;
+    height: 46px;
+    margin: 2px;
+    background-image: url(../img/logo.jpg);
+    background-size: 65px 46px;
+    background-repeat: no-repeat;
+}
 
 /*导航栏图片列表项*/
 
