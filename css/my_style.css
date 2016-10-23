@@ -116,3 +116,10 @@ td {
     color: #ff5500;
     margin-top: 10px;
 }
+
+/*公司简介 start*/
+.introduce-content img{
+        float: left;
+    margin-right: 10px;
+}
+/*公司简介 end*/
