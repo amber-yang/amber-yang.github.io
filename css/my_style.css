@@ -22,7 +22,7 @@ td {
     margin: 2px;
 }
 
-.navbar-brand{
+.navbar-brand {
     width: 69px;
     height: 46px;
     margin: 2px;
@@ -30,21 +30,6 @@ td {
     background-size: 65px 46px;
     background-repeat: no-repeat;
 }
-
-/*导航栏图片列表项*/
-
-#navbar-nav_ignoreli {
-    margin-top: 0px;
-    margin-right: 10px;
-}
-
-
-/*导航栏图片*/
-
-#navbar-nav_ignoreli>img {
-    height: 100px;
-}
-
 
 /*导航栏与图片滚动展示之间的间距*/
 
@@ -56,6 +41,10 @@ td {
     margin-bottom: 20px;
 }
 
+/*导航栏字体加粗*/
+.navbar-collapse{
+    font-weight: bold;
+}
 
 /*红色栏*/
 
@@ -117,9 +106,10 @@ td {
     margin-top: 10px;
 }
 
-/*公司简介 start*/
-.introduce-content img{
-        float: left;
-    margin-right: 10px;
+
+
+/*首页滚动图片宽度*/
+
+.carousel-inner img {
+    width: 100%;
 }
-/*公司简介 end*/
