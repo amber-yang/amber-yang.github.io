@@ -111,7 +111,8 @@ td {
 /*首页滚动图片宽度*/
 
 .carousel-inner img {
-    width: 100%;
+    width: 760px;
+    margin: 0 auto;
 }
 
 /*证书图片*/
