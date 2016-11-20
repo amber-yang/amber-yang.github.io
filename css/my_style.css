@@ -1,3 +1,9 @@
+header {
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 12px;
+}
+
 td {
     vertical-align: top;
 }
@@ -31,6 +37,7 @@ td {
     background-repeat: no-repeat;
 }
 
+
 /*导航栏与图片滚动展示之间的间距*/
 
 .navbar {
@@ -41,10 +48,13 @@ td {
     margin-bottom: 20px;
 }
 
+
 /*导航栏字体加粗*/
-.navbar-collapse{
+
+.navbar-collapse {
     font-weight: bold;
 }
+
 
 /*红色栏*/
 
@@ -107,15 +117,16 @@ td {
 }
 
 
-
 /*首页滚动图片宽度*/
 
 .carousel-inner img {
-    width: 760px;
+    width: 500px;
     margin: 0 auto;
 }
 
+
 /*证书图片*/
-.certificate{
+
+.certificate {
     width: 100%;
 }
